@@ -6,7 +6,7 @@ Ce dépôt contient un ensemble de notebooks IPython comme compléments aux cour
 Pour ouvrir ces fichiers, démarrer une instance de jupyter par la commande suivante, dans le répertoire qui contient les fichiers de ce projet:
 
   $ jupyter notebook
-
+  
 Ceci va ouvrir une page sur votre navigateur, avec une liste des notebooks.
 Version interactive
 
